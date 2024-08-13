@@ -25,16 +25,12 @@ header {
     border-radius: 50%;
 }
 
-.nav_collections {
-    display: flex;
-    flex-direction: row;
-}
+
 
 ul {
     display: flex;
     flex-direction: row;
     list-style: none;
-    text-decoration: none;
     gap: 20px
 }
 
